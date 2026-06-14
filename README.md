@@ -1,13 +1,26 @@
 # Hi 👋, I'm HARIKARTHIK A
 
-**AI Intern @ Infosys Springboard | AI & Data Science Explorer | Building Projects in ML, GenAI, 5G Networks & Cybersecurity**[cite: 1]
+**AI Intern @ Infosys Springboard | AI & Data Science Explorer | Building Projects in ML, GenAI, 5G Networks & Cybersecurity**
 
 ### 🚀 About Me
-*   **Turning Ideas into Code** | **Problem Solver** | **Web Dev** | **ML Enthusiast**[cite: 1]
-*   🌱 I’m currently building expertise in **Machine Learning**, **Generative AI**, and **5G Networks**[cite: 1].
-*   💬 Ask me about **DSA**, **Software Development**, and **Data Science**[cite: 1].
-*   👨‍💻 To know more about me: [linkedin.com/in/harikarthik-a-14a71527a](https://linkedin.com/in/harikarthik-a-14a71527a)[cite: 1]
-*   📫 How to reach me: **aharikarthik7124@gmail.com**[cite: 1]
+*   **Turning Ideas into Code** | **Problem Solver** | **Web Dev** | **ML Enthusiast**
+*   🌱 I’m currently building expertise in **Machine Learning**, **Generative AI**, and **5G Networks**.
+*   💬 Ask me about **DSA**, **Software Development**, and **Data Science**.
+*   👨‍💻 To know more about me: [linkedin.com/in/harikarthik-a-14a71527a](https://linkedin.com/in/harikarthik-a-14a71527a)
+*   📫 How to reach me: **aharikarthik7124@gmail.com**
+
+---
+
+### 🌐 Socials
+
+<p align="left">
+  <a href="https://linkedin.com/in/harikarthik-a-14a71527a" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
+  </a>
+  <a href="mailto:aharikarthik7124@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
+  </a>
+</p>
 
 ---
 
@@ -36,18 +49,18 @@
 ---
 
 ### 📊 GitHub Stats
-![Harikarthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harikarthik7124&show_icons=true&theme=radical)[cite: 1]
+![Harikarthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harikarthik7124&show_icons=true&theme=radical)
 
 ### 🔥 Heat Map
-![Harikarthik's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harikarthik7124&theme=react-dark)[cite: 1]
+![Harikarthik's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harikarthik7124&theme=react-dark)
 
 ### 🏆 GitHub Trophies
-![Harikarthik's trophies](https://github-profile-trophy.vercel.app/?username=Harikarthik7124&theme=radical)[cite: 1]
+![Harikarthik's trophies](https://github-profile-trophy.vercel.app/?username=Harikarthik7124&theme=radical)
 
 ---
 
 ### 🔝 Top Contributed Projects
-*   **DocMind**: RAG-based Document Q&A System using LangChain and Llama 3.1[cite: 1].
-*   **Cat Emotion Detection**: AI-based facial analysis system built during Infosys internship[cite: 1].
-*   **5G User Session Management**: Real-time dashboard for monitoring network nodes[cite: 1].
-*   **Smart Water Leakage Detection**: ML model for anomaly analysis in water flow[cite: 1].
+*   **DocMind**: RAG-based Document Q&A System using LangChain and Llama 3.1.
+*   **Cat Emotion Detection**: AI-based facial analysis system built during Infosys internship.
+*   **5G User Session Management**: Real-time dashboard for monitoring network nodes.
+*   **Smart Water Leakage Detection**: ML model for anomaly analysis in water flow.
