@@ -1,96 +1,32 @@
-# Hi 👋, I'm Harikarthik
+Hi 👋, I'm HARIKARTHIK A
 
-### AI Engineer | Generative AI Developer | Machine Learning Enthusiast | 5G Network Explorer
+AI Intern @ Infosys Springboard | AI & Data Science Explorer | Building Projects in ML, GenAI, 5G Networks & Cybersecurity | Python | Web Development | Problem Solver
 
-🌱 I'm currently exploring Retrieval-Augmented Generation (RAG), Large Language Models, Agentic AI, and AI-powered applications
+🌱 I’m currently building expertise in Machine Learning, Generative AI, 5G Networks, and Full-Stack Development
+💬 Ask me about AI/ML, Computer Vision, Cybersecurity, and 5G Session Management
+👨‍💻 To know more about me: linkedin.com/in/harikarthik-a-14a71527a
+📫 How to reach me: aharikarthik7124@gmail.com
+🌐 Socials: [LinkedIn](https://linkedin.com/in/harikarthik-a-14a71527a) | [Portfolio/Vercel](https://vercel.com/)
 
-💬 Ask me about Python, Machine Learning, Generative AI, LangChain, RAG Systems, Open5GS, UERANSIM, Flask, and Streamlit
+💻 Tech Stack:
+- **Programming:** Python, Shell Scripting
+- **Web Development:** HTML, CSS, JavaScript, Flask, Streamlit
+- **AI/ML & Tools:** LangChain, FAISS, Hugging Face, Ollama, TensorFlow, OpenCV, Scikit-learn, Pandas
+- **Specialized Tech:** Open5GS, UERANSIM, Unreal Engine, Unity
 
-📫 How to reach me: **[aharikarthik7124@gmail.com](mailto:aharikarthik7124@gmail.com)**
+📊 GitHub Stats:
+![Harikarthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harikarthik7124&show_icons=true&theme=radial)
 
-🔗 LinkedIn: **linkedin.com/in/harikarthik-a-14a71527a**
+🔥 Heat Map:
+![Harikarthik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harikarthik7124&theme=react-dark)
 
----
+🏆 GitHub Trophies:
+![Harikarthik's Github Trophies](https://github-profile-trophy.vercel.app/?username=Harikarthik7124&theme=radical)
 
-## 🌐 Socials
-
-LinkedIn • GitHub • Email
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-Python • JavaScript • HTML5 • CSS3 • Shell Scripting
-
-**AI & Machine Learning**
-
-TensorFlow • OpenCV • Scikit-Learn • Pandas • NumPy
-
-**Generative AI**
-
-LangChain • FAISS • HuggingFace • Ollama • Llama 3
-
-**Frameworks**
-
-Flask • Streamlit
-
-**Networking & Telecom**
-
-Open5GS • UERANSIM • 5G Networks
-
-**Tools**
-
-Git • GitHub • Vercel • Unity • Unreal Engine
-
----
-
-## 🚀 Featured Projects
-
-### DocMind – RAG-Based Document Q&A System
-
-Retrieval-Augmented Generation system built using LangChain, FAISS, HuggingFace Embeddings, Ollama, and Streamlit.
-
-### Cat Emotion Detection System
-
-Deep learning application using TensorFlow and OpenCV for cat emotion classification.
-
-### User Session Management App for 5G Networks
-
-Flask-based platform integrated with Open5GS and UERANSIM for UE session management and monitoring.
-
-### Smart Water Leakage Detection Using Machine Learning
-
-Machine learning solution for anomaly detection and predictive analytics using sensor data.
-
----
-
-## 💼 Experience
-
-### Artificial Intelligence Intern | Infosys Springboard
-
-Developed AI-based Cat Emotion Recognition Systems using deep learning and multimodal AI approaches.
-
-### Cybersecurity with AI Intern | NIIT Foundation
-
-Explored AI-driven threat detection techniques and cybersecurity analysis methodologies.
-
----
-
-## 🏆 Achievements & Certifications
-
-• LEAP Program Winner – IITM Pravartak
-
-• AI Agent Hackathon Participant
-
-• TechImpact – GDG Hackathon Participant
-
-• AWS ML Foundations
-
-• Generative AI Prompt Engineering
-
----
+🔝 Top Contributed Repo:
+- **DocMind**: RAG-based Document Q&A System using LangChain, FAISS, and Llama 3.1.
+- **5G User Session Management**: Web application automating UE and gNodeB operations via Open5GS and UERANSIM.
+- **Cat Emotion Detection**: Multi-modal AI system utilizing CNNs and OpenCV.
 
 ## 📊 GitHub Stats
 
@@ -108,8 +44,3 @@ Explored AI-driven threat detection techniques and cybersecurity analysis method
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harikarthik7124&theme=tokyonight&no-frame=true" />
-</p>
