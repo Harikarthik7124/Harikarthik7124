@@ -57,9 +57,6 @@
 ### 🔥 Heat Map
 ![Harikarthik's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harikarthik7124&theme=react-dark)
 
-### 🏆 GitHub Trophies
-![Harikarthik's trophies](https://github-profile-trophy.vercel.app/?username=Harikarthik7124&theme=radical)
-
 ---
 
 ### 🔝 Top Contributed Projects
