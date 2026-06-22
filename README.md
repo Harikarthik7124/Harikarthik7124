@@ -1,6 +1,6 @@
 # Hi 👋, I'm HARIKARTHIK A
 
-**AI Intern @ Infosys Springboard | AI & Data Science Explorer | Building Projects in ML, GenAI, 5G Networks & Cybersecurity**
+**AI/ML Engineer (CS’26) | Ex-AI Intern @ Infosys Springboard | Multi-Agent Systems & Computer Vision | Building End-to-End AI Products**
 
 ### 🚀 About Me
 *   **Turning Ideas into Code** | **Problem Solver** | **Web Dev** | **ML Enthusiast**
@@ -50,6 +50,9 @@
 
 ### 📊 GitHub Stats
 ![Harikarthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harikarthik7124&show_icons=true&theme=radical)
+
+### 🧪 Most Used Languages
+![Harikarthik's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harikarthik7124&layout=compact&theme=radical)
 
 ### 🔥 Heat Map
 ![Harikarthik's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harikarthik7124&theme=react-dark)
