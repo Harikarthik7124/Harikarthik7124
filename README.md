@@ -7,7 +7,7 @@
 *   🌱 I’m currently building expertise in **Machine Learning**, **Generative AI**, and **5G Networks**.
 *   💬 Ask me about **DSA**, **Software Development**, and **Data Science**.
 *   👨‍💻 To know more about me: [linkedin.com/in/harikarthik-a-14a71527a](https://linkedin.com/in/harikarthik-a-14a71527a)
-*   📫 How to reach me: **aharikarthik7124@gmail.com**
+*   📫 How to reach me: https://harikarthik-portfolio-world.onrender.com/
 
 ---
 
