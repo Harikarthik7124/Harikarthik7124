@@ -93,6 +93,24 @@
 
 ---
 
+### 🎯 Skills At A Glance
+
+<p align="center">
+  <b>🧠 AI / ML</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
+  <br/><br/>
+  <b>🌐 Web Development</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,flask,fastapi&theme=dark" />
+  <br/><br/>
+  <b>🗄️ Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&theme=dark" />
+  <br/><br/>
+  <b>⚙️ DevOps & Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,figma&theme=dark" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Harikarthik7124&theme=radical&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
@@ -113,10 +131,6 @@
 ### 📈 Activity Graph
 
 ![Harikarthik's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harikarthik7124&theme=react-dark&hide_border=true)
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/Harikarthik7124/Harikarthik7124/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
