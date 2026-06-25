@@ -1,7 +1,3 @@
-<!-- Visitor Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Harikarthik7124&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="visitor counter"/>
-</p>
 
 <!-- Typing Animation -->
 <p align="center">
