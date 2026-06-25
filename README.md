@@ -80,7 +80,6 @@
 
 <!-- DevOps & Cloud -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
@@ -89,7 +88,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -103,17 +101,11 @@
   <img src="https://skillicons.dev/icons?i=react,html,css,js,flask,fastapi&theme=dark" />
   <br/><br/>
   <b>🗄️ Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
   <br/><br/>
   <b>⚙️ DevOps & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
 </p>
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harikarthik7124&theme=radical&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
