@@ -1,12 +1,34 @@
-# Hi 👋, I'm HARIKARTHIK A
-**AI/ML Engineer (CS'26) | Ex-AI Intern @ Infosys Springboard | Multi-Agent Systems & Computer Vision | Building End-to-End AI Products**
+<!-- Visitor Counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Harikarthik7124&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="visitor counter"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Harikarthik+A;AI%2FML+Engineer+%7C+CS'26;Multi-Agent+Systems+Builder;Computer+Vision+Engineer;Building+End-to-End+AI+Products" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 ### 🚀 About Me
-* **Turning Ideas into Code** | **Problem Solver** | **Web Dev** | **ML Enthusiast**
-* 🌱 I'm currently building expertise in **Machine Learning**, **Generative AI**, and **5G Networks**.
-* 💬 Ask me about **DSA**, **Software Development**, and **Data Science**.
-* 👨‍💻 To know more about me: [linkedin.com/in/harikarthik-a-14a71527a](https://linkedin.com/in/harikarthik-a-14a71527a)
-* 📫 How to reach me: https://harikarthik-portfolio-world.onrender.com/
+
+* 🤖 **Turning Ideas into Production AI** | **Problem Solver** | **Web Dev** | **ML Enthusiast**
+* 🔭 Currently building → **AutoEval v2** (Multi-Agent GitHub Evaluation Platform)
+* 🌱 Currently learning → **SQL → PostgreSQL → Redis**
+* 💼 Open to → **AI/ML Engineer**, **Data Science**, and **Computer Vision** roles
+* 💬 Ask me about **DSA**, **LLMs**, **RAG Pipelines**, and **Agentic AI**
+* 👨‍💻 Portfolio: [harikarthik-portfolio-world.onrender.com](https://harikarthik-portfolio-world.onrender.com/)
+* 📫 Reach me: **aharikarthik7124@gmail.com**
+
+---
+
+### 💼 Open To Work
+
+> 🚀 Actively seeking **AI/ML Engineer**, **Data Science**, and **Computer Vision** roles in **Chennai / Bengaluru / Remote**
+>
+> 📩 **aharikarthik7124@gmail.com** | 🔗 [LinkedIn](https://linkedin.com/in/harikarthik-a-14a71527a)
 
 ---
 
@@ -50,6 +72,7 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 <!-- Databases -->
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -70,26 +93,46 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
-![Harikarthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harikarthik7124&show_icons=true&theme=radical)
-
-### 🧪 Most Used Languages
-
-![Harikarthik's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harikarthik7124&layout=compact&theme=radical)
-
-### 🔥 Heat Map
-
-![Harikarthik's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harikarthik7124&theme=react-dark)
-
-![snake gif](https://github.com/Harikarthik7124/Harikarthik7124/blob/output/github-contribution-grid-snake.gif)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harikarthik7124&theme=radical&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 🔝 Top Contributed Projects
+### 📊 GitHub Stats
 
-* **AutoEval** — Multi-agent GitHub profile evaluation platform using LangGraph, LangChain-Groq (Llama3.3-70B + Llama3.1-8B dual scorers), pgvector, FastAPI, React, and Docker Compose.
-* **DocMind** — RAG-based Document Q&A System using LangChain and Llama 3.1.
-* **Cat Emotion Detection** — AI-based multimodal facial & audio analysis system (CNN + LSTM, MobileNetV2, MFCC) built during Infosys internship.
-* **5G User Session Management** — Real-time dashboard for monitoring network nodes using Open5GS and UERANSIM.
-* **Smart Water Leakage Detection** — ML model for anomaly analysis in water flow data.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harikarthik7124&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikarthik7124&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
+</p>
+
+### 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harikarthik7124&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+### 📈 Activity Graph
+
+![Harikarthik's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harikarthik7124&theme=react-dark&hide_border=true)
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/Harikarthik7124/Harikarthik7124/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 🔝 Top Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🤖 **AutoEval** | Multi-agent GitHub profile evaluation platform with dual LLM scorers & consensus layer | FastAPI, LangGraph, Groq, pgvector, React, Docker |
+| 🧠 **DocMind** | RAG-based Document Q&A system | LangChain, Llama 3.1, FAISS, Flask |
+| 🐱 **Cat Emotion Detection** | Multimodal AI system using facial + audio analysis | CNN, LSTM, MobileNetV2, MFCC, Streamlit |
+| 📡 **5G Session Dashboard** | Real-time network monitoring dashboard | Open5GS, UERANSIM, React, WebSockets |
+| 💧 **Smart Water Leakage Detection** | ML anomaly detection in water flow data | Python, scikit-learn, Pandas |
+| 💹 **Fintech Trends Platform** | Financial trends dashboard with role-based access | React, Node.js, PostgreSQL, WebSockets |
+
+---
+
+<p align="center">
+  <i>"Build things that matter. Ship things that work."</i>
+</p>
