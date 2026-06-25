@@ -82,6 +82,8 @@
 
 ![Harikarthik's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harikarthik7124&theme=react-dark)
 
+![snake gif](https://github.com/Harikarthik7124/Harikarthik7124/blob/output/github-contribution-grid-snake.gif)
+
 ---
 
 ### 🔝 Top Contributed Projects
