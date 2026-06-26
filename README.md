@@ -135,6 +135,15 @@
 
 ---
 
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/Harikarthik7124/">
+    <img src="https://leetcard.jacoblin.cool/Harikarthik_A?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+
 <p align="center">
   <i>"Build things that matter. Ship things that work."</i>
 </p>
